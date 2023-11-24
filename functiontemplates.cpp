@@ -2,7 +2,7 @@
 
 using namespace std;
 template<class anyname>
-int add (anyname a,anyname b)
+anyname add (anyname a,anyname b)
 
 {
     return a+b;
